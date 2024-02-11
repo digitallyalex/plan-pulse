@@ -32,7 +32,7 @@ $(function() {
             $(this).addClass('past');
 
 
-        } else if (hourID === presentHour) {
+        } else if (hourID == presentHour) {
             $(this).removeClass('past');
             $(this).removeClass('future');
             $(this).addClass('present');
