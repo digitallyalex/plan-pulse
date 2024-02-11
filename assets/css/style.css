@@ -33,8 +33,6 @@ header {
 
 .row {
   white-space: pre-wrap;
-  height: 80px;
-  border-top: 1px solid white;
 }
 
 .hour {
@@ -44,25 +42,25 @@ header {
 }
 
 .past {
-  background-color: #d3d3d3;
+  background-color: #CDE5D7;
   color: white;
 }
 
 .present {
-  background-color: #ff6961;
+  background-color: #FFB7C3;
   color: white;
 }
 
 .future {
-  background-color: #77dd77;
+  background-color: #79C99E;
   color: white;
 }
 
 .saveBtn {
-  border-left: 1px solid black;
-  border-top-right-radius: 15px;
-  border-bottom-right-radius: 15px;
-  background-color: #065e11;
+  border-left: 2px solid black;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  background-color: #048BA8;
   color: white;
 }
 
